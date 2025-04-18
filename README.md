@@ -23,6 +23,9 @@ Here's a walkthrough of implemented features:
 
 ![Sea Monster demo](https://i.imgur.com/YutWMVP.gif)
 
+https://imgur.com/gallery/web102-prework-5Dk7vqZ
+
+
 ## Notes
 
 Everything was almost straigforward I would say, its been awhile sinse the last time I have worked with vanilla js
